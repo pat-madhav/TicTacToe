@@ -151,5 +151,5 @@ while turns < 9:
     if turns == 9: print("Tie!")
 
     player = not player
-    clearConsole()
+    # clearConsole()
 
